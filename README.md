@@ -14,9 +14,9 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ## Screenshots
 
-### Resultado leetcode 
+### Resultado leetcode - Problema 115
 
-![]()
+![Resultado 115](./Problemas/115.%20Distinct%20Subsequences/Resultado.png)
 
 ### Resultado leetcode 
 
@@ -29,7 +29,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 ## Problemas e Soluções
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
 | -- | -- | -- |
-| []()  |  Difícil | [Vídeo]() |
+| [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)  |  Difícil | [Vídeo]() |
 | []()  |  Difícil | [Vídeo]() |
 | []()  |  Difícil | [Vídeo]() |
 
