@@ -18,9 +18,9 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 
 ![Resultado 115](./Problemas/115.%20Distinct%20Subsequences/Resultado.png)
 
-### Resultado leetcode 
+### Resultado leetcode - Problema 1235
 
-![]()
+![Resultado 1235](./Problemas/1235.%20Maximum%20Profit%20in%20Job%20Scheduling/Resolucao.png)
 
 ### Resultado leetcode 
 
@@ -30,7 +30,7 @@ Repositório destinado a realização do trabalho da disciplina de Projeto de Al
 | Problema | Dificuldade | 1 Vídeo Para as 3 Soluções |
 | -- | -- | -- |
 | [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)  |  Difícil | [Vídeo]() |
-| []()  |  Difícil | [Vídeo]() |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  |  Difícil | [Vídeo]() |
 | []()  |  Difícil | [Vídeo]() |
 
 ## Instalação 
